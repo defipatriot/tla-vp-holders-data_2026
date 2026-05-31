@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "cron": "tla-vp-holders",
+  "capturedAt": "2026-05-31T00:41:45.245Z",
+  "capturedAtUnix": 1780188105245,
+  "runId": "vph-20260531004145",
+  "runMode": "weekly",
+  "status": "ok",
+  "stats": {
+    "holder_count": 201,
+    "total_vp_human": 23593295.508380983,
+    "top_1_pct": 23.82809854848794,
+    "top_5_pct": 62.40182729650089,
+    "top_10_pct": 74.0704463873229,
+    "num_tokens": 429,
+    "token_fetch_errors": 0
+  },
+  "dataFingerprint": "1b798efdac43",
+  "previousFingerprint": null,
+  "dataFreshness": "fresh",
+  "consecutiveStuckRuns": 0,
+  "next_expected_run_at": "2026-06-07T00:41:45.245Z"
+}
