@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "cron": "tla-vp-holders",
+  "capturedAt": "2026-05-31T00:41:45.245Z",
+  "metrics": {
+    "total_vp": 23593295.508380983,
+    "holder_count": 201,
+    "top_1": {
+      "count": 1,
+      "vp": 5621833.704573,
+      "pct": 23.82809854848794
+    },
+    "top_5": {
+      "count": 5,
+      "vp": 14722647.516693002,
+      "pct": 62.40182729650089
+    },
+    "top_10": {
+      "count": 10,
+      "vp": 17475659.300538,
+      "pct": 74.0704463873229
+    },
+    "top_25": {
+      "count": 25,
+      "vp": 21500984.063427992,
+      "pct": 91.131754170545
+    },
+    "top_50": {
+      "count": 50,
+      "vp": 23124452.415904988,
+      "pct": 98.01281218933808
+    },
+    "hhi": 1201.17,
+    "gini": 0.9167
+  },
+  "histogram_buckets_human": [
+    {
+      "label": "<1k",
+      "count": 98
+    },
+    {
+      "label": "1k-10k",
+      "count": 34
+    },
+    {
+      "label": "10k-50k",
+      "count": 28
+    },
+    {
+      "label": "50k-100k",
+      "count": 13
+    },
+    {
+      "label": "100k-500k",
+      "count": 21
+    },
+    {
+      "label": "500k-1M",
+      "count": 4
+    },
+    {
+      "label": "1M-5M",
+      "count": 1
+    },
+    {
+      "label": "5M-10M",
+      "count": 2
+    },
+    {
+      "label": ">10M",
+      "count": 0
+    }
+  ],
+  "note": "Concentration of TLA voting power across distinct wallets at capturedAt. Wallets are NOT people."
+}
