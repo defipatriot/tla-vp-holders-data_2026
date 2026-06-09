@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "cron": "tla-vp-holders",
-  "capturedAt": "2026-06-08T02:00:36.554Z",
-  "capturedAtUnix": 1780884036554,
+  "capturedAt": "2026-06-09T09:58:56.014Z",
+  "capturedAtUnix": 1780999136014,
   "escrow_contract": "terra1uqhj8agyeaz8fu6mdggfuwr3lp32jlrx5hqag4jxexde92rzkamq3l62zg",
   "num_tokens": 431,
   "holder_count": 202,
@@ -11,20 +11,20 @@
   "holders": [
     {
       "address": "terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9",
-      "vp": 5482993.56876,
+      "vp": 5485374.816723,
       "lock_count": 1,
       "locks": [
         {
           "token_id": "748",
-          "vp_raw": 5482993568760,
-          "vp_human": 5482993.56876,
+          "vp_raw": 5485374816723,
+          "vp_human": 5485374.816723,
           "end_period": null,
           "coefficient": 9,
           "asset": {
             "info": {
               "cw20": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
             },
-            "amount": "206959601983"
+            "amount": "206979423564"
           }
         }
       ],
@@ -32,20 +32,20 @@
     },
     {
       "address": "terra1kghs7t46ysmjk0vcxpg8lt4u2yyfw5wav0xf9m",
-      "vp": 5178134.437137,
+      "vp": 5190496.316856,
       "lock_count": 1,
       "locks": [
         {
           "token_id": "1000",
-          "vp_raw": 5178134437137,
-          "vp_human": 5178134.437137,
+          "vp_raw": 5190496316856,
+          "vp_human": 5190496.316856,
           "end_period": null,
           "coefficient": 9,
           "asset": {
             "info": {
               "cw20": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
             },
-            "amount": "195540417123"
+            "amount": "195588800642"
           }
         }
       ],
@@ -217,20 +217,20 @@
     },
     {
       "address": "terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz",
-      "vp": 989651.666655,
+      "vp": 989982.768357,
       "lock_count": 1,
       "locks": [
         {
           "token_id": "754",
-          "vp_raw": 989651666655,
-          "vp_human": 989651.666655,
+          "vp_raw": 989982768357,
+          "vp_human": 989982.768357,
           "end_period": null,
           "coefficient": 9,
           "asset": {
             "info": {
               "cw20": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
             },
-            "amount": "51038011406"
+            "amount": "51038290006"
           }
         }
       ],
@@ -867,20 +867,20 @@
     },
     {
       "address": "terra14pfjtk8z5hwqtufrmdw2a95dk33ksyvv6utz40",
-      "vp": 283249.484512,
+      "vp": 283535.106936,
       "lock_count": 3,
       "locks": [
         {
           "token_id": "1222",
-          "vp_raw": 2885155712,
-          "vp_human": 2885.155712,
+          "vp_raw": 3170778136,
+          "vp_human": 3170.778136,
           "end_period": 197,
           "coefficient": 0.9519230769230769,
           "asset": {
             "info": {
               "cw20": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
             },
-            "amount": "1944573951"
+            "amount": "2125638666"
           }
         },
         {
@@ -1566,6 +1566,53 @@
       "rank": 32
     },
     {
+      "address": "terra1kffhtun3qqu4jsr336p8698prazhchltz4xszj",
+      "vp": 73424.24145,
+      "lock_count": 3,
+      "locks": [
+        {
+          "token_id": "337",
+          "vp_raw": 24813346707,
+          "vp_human": 24813.346707,
+          "end_period": null,
+          "coefficient": 9,
+          "asset": {
+            "info": {
+              "cw20": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
+            },
+            "amount": "1280162498"
+          }
+        },
+        {
+          "token_id": "466",
+          "vp_raw": 23536057905,
+          "vp_human": 23536.057905,
+          "end_period": null,
+          "coefficient": 9,
+          "asset": {
+            "info": {
+              "cw20": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml"
+            },
+            "amount": "1484697339"
+          }
+        },
+        {
+          "token_id": "526",
+          "vp_raw": 25074836838,
+          "vp_human": 25074.836838,
+          "end_period": null,
+          "coefficient": 9,
+          "asset": {
+            "info": {
+              "cw20": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
+            },
+            "amount": "985596967"
+          }
+        }
+      ],
+      "rank": 33
+    },
+    {
       "address": "terra1myw3av4f2rmzzgltthdvw0jxkkvp8tg2kxz0jz",
       "vp": 72811.200357,
       "lock_count": 2,
@@ -1594,53 +1641,6 @@
               "cw20": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
             },
             "amount": "3949392630"
-          }
-        }
-      ],
-      "rank": 33
-    },
-    {
-      "address": "terra1kffhtun3qqu4jsr336p8698prazhchltz4xszj",
-      "vp": 72697.634829,
-      "lock_count": 3,
-      "locks": [
-        {
-          "token_id": "337",
-          "vp_raw": 24813346707,
-          "vp_human": 24813.346707,
-          "end_period": null,
-          "coefficient": 9,
-          "asset": {
-            "info": {
-              "cw20": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
-            },
-            "amount": "1280162498"
-          }
-        },
-        {
-          "token_id": "466",
-          "vp_raw": 22809451284,
-          "vp_human": 22809.451284,
-          "end_period": null,
-          "coefficient": 9,
-          "asset": {
-            "info": {
-              "cw20": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml"
-            },
-            "amount": "1444059632"
-          }
-        },
-        {
-          "token_id": "526",
-          "vp_raw": 25074836838,
-          "vp_human": 25074.836838,
-          "end_period": null,
-          "coefficient": 9,
-          "asset": {
-            "info": {
-              "cw20": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490"
-            },
-            "amount": "985596967"
           }
         }
       ],
@@ -1917,7 +1917,7 @@
     },
     {
       "address": "terra19auhndehjye9v25trq80j2zek2q6gsegua3vsz",
-      "vp": 59557.634775,
+      "vp": 59594.177897999994,
       "lock_count": 3,
       "locks": [
         {
@@ -1948,15 +1948,15 @@
         },
         {
           "token_id": "1175",
-          "vp_raw": 504280782,
-          "vp_human": 504.280782,
+          "vp_raw": 540823905,
+          "vp_human": 540.823905,
           "end_period": null,
           "coefficient": 9,
           "asset": {
             "info": {
               "cw20": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
             },
-            "amount": "26177109"
+            "amount": "27889204"
           }
         }
       ],
@@ -1964,7 +1964,7 @@
     },
     {
       "address": "terra1muzld38hqugdh6hquvy6ersn9qe75g9ad8f75k",
-      "vp": 56524.108481999996,
+      "vp": 56559.213459,
       "lock_count": 3,
       "locks": [
         {
@@ -1995,15 +1995,15 @@
         },
         {
           "token_id": "1176",
-          "vp_raw": 542436417,
-          "vp_human": 542.436417,
+          "vp_raw": 577541394,
+          "vp_human": 577.541394,
           "end_period": null,
           "coefficient": 9,
           "asset": {
             "info": {
               "cw20": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
             },
-            "amount": "28157760"
+            "amount": "29782651"
           }
         }
       ],
