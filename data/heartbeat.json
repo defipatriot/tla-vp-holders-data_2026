@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "cron": "tla-vp-holders",
-  "capturedAt": "2026-06-09T09:58:56.014Z",
-  "capturedAtUnix": 1780999136014,
-  "runId": "vph-20260609095856",
+  "capturedAt": "2026-06-15T02:00:09.136Z",
+  "capturedAtUnix": 1781488809136,
+  "runId": "vph-20260615020009",
   "runMode": "weekly",
   "status": "ok",
   "stats": {
     "holder_count": 202,
-    "total_vp_human": 23906495.35174799,
-    "top_1_pct": 22.945123222847975,
-    "top_5_pct": 61.40267263807737,
-    "top_10_pct": 72.91842073640204,
+    "total_vp_human": 23983932.112899996,
+    "top_1_pct": 23.157541021727116,
+    "top_5_pct": 61.58559777119892,
+    "top_10_pct": 73.1289001238474,
     "num_tokens": 431,
     "token_fetch_errors": 0
   },
-  "dataFingerprint": "f5e67690394b",
-  "previousFingerprint": "0021dac7b85e",
+  "dataFingerprint": "d2020410f0d4",
+  "previousFingerprint": "f5e67690394b",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-16T09:58:56.014Z"
+  "next_expected_run_at": "2026-06-22T02:00:09.136Z"
 }
